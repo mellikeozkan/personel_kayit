@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\bin\Debug\PersonelKayitSql.exe.config
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\bin\Debug\PersonelKayitSql.exe
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\bin\Debug\PersonelKayitSql.pdb
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.Form1.resources
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.exe
+C:\Users\MONSTER\source\repos\PersonelKayitSql\PersonelKayitSql\obj\Debug\PersonelKayitSql.pdb
