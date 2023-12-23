@@ -2,14 +2,14 @@
 **Veri Tabanlı Personel Kayıt Uygulaması**
 
 
-** Hangi Dil İle Yazıldı? **
+**Hangi Dil İle Yazıldı?**
 
-*C# ile yazılmıştır *
+*C# ile yazılmıştır*
 
-** Amacı Nedir ? **
+**Amacı Nedir ?**
 
-* Personellerin Adını ,Soyadını,Mesleğini ,Maaşının Tutarını ve Medeni durumlarını listelemek için kolaylık sunan bir uygulamadır . *
-* sürekli olarak güncelleyebilme olanağı sunar.Daha da detay verecek olursak personel ekleme ,personel silme,personel bilgilerini değiştirme gibi imkanlar sunar . *
+*Personellerin Adını ,Soyadını,Mesleğini ,Maaşının Tutarını ve Medeni durumlarını listelemek için kolaylık sunan bir uygulamadır .*
+*Sürekli olarak güncelleyebilme olanağı sunar.Daha da detay verecek olursak personel ekleme ,personel silme,personel bilgilerini değiştirme gibi imkanlar sunar .*
 
 
 
