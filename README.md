@@ -1,5 +1,5 @@
 # personel_kayit
-**Veri Tabanlı Personel Kayıt Uygulaması **
+**Veri Tabanlı Personel Kayıt Uygulaması**
 
 
 ** Hangi Dil İle Yazıldı? **
